@@ -1,7 +1,6 @@
 import React from "react"
-import { Text } from "react-native"
-import { createStackNavigator } from "@react-navigation/stack";
-import { View } from "react-native-web";
+import {Text, View} from "react-native"
+import {createStackNavigator} from "@react-navigation/stack";
 
 const Login = ()=> {
     return ( <View>

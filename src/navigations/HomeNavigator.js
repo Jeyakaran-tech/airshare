@@ -1,7 +1,6 @@
-import React from "react"
-import { Text,Image } from "react-native"
-import { createStackNavigator } from "@react-navigation/stack";
-import { View } from "react-native-web";
+import React from 'react';
+import {Text,Image,View} from "react-native"
+import {createStackNavigator} from "@react-navigation/stack";
 
 const Contacts = ()=> {
     return ( 
